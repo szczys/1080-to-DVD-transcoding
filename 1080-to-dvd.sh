@@ -1,6 +1,9 @@
 #!/bin/sh
 
-### 1080-t-dvd.sh by Mike Szczys - szczys a t nospam hotmail deleteme dot youknowcom
+### 1080-t-dvd.sh by Mike Szczys - mike a t nospam jumptuck deleteme dot youknowcom
+###	
+###	jumptuck.com
+###
 ### Last modified: 20100202
 ###
 ### Usage: /PATH/TO/removecommercials %DIR% %FILE% %CHANID% %STARTTIME%
